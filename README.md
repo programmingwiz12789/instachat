@@ -1,2 +1,2 @@
-# instachat
+# InstaChat
 Messaging application in C#

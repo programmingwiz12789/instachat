@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="CustomPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Chats.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ContactPopup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Contacts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CreateNewPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EnterCode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EnterOTP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EnterEmail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProfileImage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SearchUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
